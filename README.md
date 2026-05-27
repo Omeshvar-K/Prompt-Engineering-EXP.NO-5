@@ -13,4 +13,10 @@ Prepare Multiple Test Scenarios: Select various scenarios such as: Generating a 
 
 OUTPUT:
 
+[Final_Prompt_Engineering_Report_Full.pdf](https://github.com/user-attachments/files/28293421/Final_Prompt_Engineering_Report_Full.pdf)
+
+
 RESULT: 
+
+THUS , COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS WAS DONE
+
